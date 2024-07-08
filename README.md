@@ -1,3 +1,3 @@
-# Welcome to my first project
+# Welcome to my first project :)
 
 Hello!
